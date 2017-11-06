@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknown_uri_with_match">Unknown Uri %s with match %i.</string>
+    <string name="username_password_not_meet_requirements">The username and/or password does not meet the requirements.</string>
+
+    <string name="insertion_not_supported_for">Insertion is not supported for %s.</string>
+    <string name="cannot_query_unknown_uri">Can not query unknown Uri %s.</string>
+    <string name="update_is_not_supported_for">Update is not supported for %s.</string>
+    <string name="delete_is_not_supported_for">Delete is not supported for %s.</string>
+</resources>

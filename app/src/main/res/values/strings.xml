@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">SQLite Insert</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="view_data">View data</string>
+    <string name="add_user">Add user</string>
+    <string name="edit_user">Edit user</string>
+    <string name="delete">Delete</string>
+
+    <string name="toast_add_user_successful">Added new user successfully.</string>
+    <string name="toast_add_user_failed">Adding new user failed.</string>
+
+    <string name="toast_edit_user_successful">Edited user successfully.</string>
+    <string name="toast_edit_user_failed">Editing user failed.</string>
+
+    <string name="unsaved_changes_dialog">There are unsaved changes to the user.</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep editing</string>
+
+    <string name="delete_dialog">Are you sure you want to delete this user?</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="toast_delete_user_successful">Deleted the user successfully.</string>
+    <string name="toast_delete_user_failed">Failed to delete the user.</string>
 </resources>
